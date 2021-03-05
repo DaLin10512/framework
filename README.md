@@ -1,6 +1,6 @@
 # framework
 
-Several state-of-the-art algorithms are embedded in our framework for implementing the given matrix M and the recovered matrix M', \
+Several state-of-the-art algorithms are embedded in our framework for implementing the given matrix M and the recovered matrix M', 
 for instance, Paar1, RPaar1 (the randomised version of Paar1), BP, BFI (Banik et al.'s method), RNBP, A1 and A2;
 	
 We adopt several openly available implementations for these heuristics:
